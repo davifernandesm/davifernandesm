@@ -2,7 +2,7 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=24D868&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Davi+Gomes;Eu+tenho+23+anos;Sou+cientista+de+dados;Formado+em+Ciência+da+computção;Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=24D868&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Davi+Gomes;Eu+tenho+24+anos;Sou+cientista+de+dados;Formado+em+Ciência+da+computção;Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <h5 align="center">-👨🏼‍🎓 Formado em Ciência da Computação<br>-🌱 Estudando Data science, IA, Bigdata...<br>-📫 Email: davigomes.m1@gmail.com<br>-📲 Numero p/ contato: +55 (85) 991480647</h5>
 
